@@ -19,6 +19,6 @@ Going to <a href='https://t.me/BotFather'>@BotFather</a>
 
 -------------------------------
 ## Applications Download:
-Ngrok:       <a href='https://api.ineo-team.ir/link.php?c=ngrok'>Download</a>
+Ngrok: <a href='https://api.ineo-team.ir/link.php?c=ngrok'>Download</a>
 
 WampServer:  <a href='https://api.ineo-team.ir/link.php?c=wampserver'>Download</a>

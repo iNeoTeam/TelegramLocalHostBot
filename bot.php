@@ -34,7 +34,7 @@ if($text == "/start"){
 }else{
 	$GET = iNeoTeamBot('sendMessage', [
 		'chat_id' => $chat_id,
-		'text' => "<code>".json_encode($recevie)."</code>",
+		'text' => "<code>".$recevie."</code>",
 		'parse_mode' => "HTML"
 	]);
 }

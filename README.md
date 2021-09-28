@@ -4,10 +4,7 @@
 <h5>Language: PHP</h5>
 <h5>Coder: Amir Hossein Yeganeh</h5>
 <h5>Contact: <a href='https://t.me/s/crossxss'>T.me/CrossXss</a></h5>
-
-------------------------
-
-<h5>Powered By iNeoTeam</h5>
+<h5>Powered By <a href='https://t.me/s/iNeoTeam'>iNeoTeam</a></h5>
 
 -------------------------------
 ## How yo use?
